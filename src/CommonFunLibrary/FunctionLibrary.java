@@ -157,6 +157,7 @@ Thread.sleep(5000);
 System.out.println(exp_data+"    "+act_data);
 Assert.assertEquals(act_data, exp_data,"Snumber is not matching");
 break;
+public static void tableValidation(WebDriver driver,String testdata)throws Throwable
 }
 }
 }
